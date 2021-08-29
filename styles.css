@@ -12,7 +12,30 @@ nav {
 }
 
 .jumboName {
-    width: 18rem;
-    margin: 75px -200px;
+    width: 20rem;
+    margin: 80px -180px;
     
+}
+
+.circleLogo {
+    display: block;
+    max-width: 50%;
+    height: auto;
+  }
+
+  .dancerLeap {
+    display: block;
+    max-width: 40%;
+    height: auto;
+  }
+
+
+.gotTights {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+
+.firstPosition {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 3rem;
 }
