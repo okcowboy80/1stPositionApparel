@@ -1,0 +1,18 @@
+
+body {
+    background-color: rgb(247, 187, 207);
+}
+
+nav {
+    background-color: rgb(241, 71, 142);
+}
+
+.jumbotron {
+    background-color: rgb(241, 71, 142);
+}
+
+.jumboName {
+    width: 18rem;
+    margin: 75px -200px;
+    
+}
