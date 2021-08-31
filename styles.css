@@ -1,14 +1,40 @@
 
 body {
-    background-color: rgb(247, 187, 207);
+    background-color: rgb(255, 212, 227);
 }
 
 nav {
     background-color: rgb(241, 71, 142);
 }
 
+nav .navbar-nav li a{
+    color: rgb(241, 71, 142) !important;
+}
+
+/* nav .navbar .nav-item > .active :active {
+    color: black;
+} */
+
+nav .navbar-nav li :hover{
+    color: rgb(7, 1, 3) !important;
+    }
+
+.myCart :hover {
+    color: rgb(7, 1, 3) !important;
+}
+
 .jumbotron {
     background-color: rgb(241, 71, 142);
+}
+
+input.search-query {
+    background-color:#f47443;
+    color:white;
+}
+
+input .search-query :hover{
+    background-color: rgb(241, 71, 142) ;
+    color:white;
 }
 
 .jumboName {
@@ -32,10 +58,23 @@ nav {
 
 .gotTights {
     font-family: 'Dancing Script', cursive;
-    font-size: 3rem;
+    font-size: 1.5rem;
 }
 
 .firstPosition {
     font-family: 'Noto Serif TC', serif;
-    font-size: 3rem;
+    
+}
+
+.card {
+    width: auto;
+    height: 100%;
+}
+
+.page-footer {
+    background-color: rgb(241, 71, 142);
+}
+
+.page-footer a {
+    color: rgb(255, 212, 227);
 }
